@@ -107,7 +107,7 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="50%"></td>
 					<td>
-						<a class="titulo" href = "javascript:void(0)" onclick = "doshow(4)">&iquest;C&oacute;mo me desincribo de un curso? (Darme de Baja)</a>
+						<a class="titulo" href = "javascript:void(0)" onclick = "doshow(4)">&iquest;C&oacute;mo me desinscribo de un curso? (Darme de Baja)</a>
 						<div class="nivel">Nivel B&aacute;sico</div>
 						<div class="resumen">Ajustes de curso para desmatricular uno o m&aacute;s cursos.</div>
 						<div id="light4" class="white_content">
@@ -191,14 +191,14 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="50%"></td>
 					<td>
-						<a class="titulo" href = "javascript:void(0)" onclick = "doshow(8)">&iquest;C&oacute;mo imprimir una prueba v&iacute;a Webcursos-UAI?</a>
+						<a class="titulo" href = "javascript:void(0)" onclick = "doshow(8)">eMarking &iquest;C&oacute;mo imprimir una prueba?</a>
 						<div class="nivel">Nivel Medio</div>
 						<div class="resumen">M&oacute;dulo de env&iacute;o e impresi&oacute;n de pruebas v&iacute;a Webcursos.</div>
     					<div id="light8" class="white_content">
     					    <div class="fondo">
     							<a class="cerrar" href = "javascript:void(0)" onclick = "dohide(8)">Cerrar</a>
     						</div>
-    						<iframe width="100%" height="90%" src="//www.youtube.com/embed/N7xbZ0enPgI" frameborder="0"></iframe>
+    						<iframe width="100%" height="90%" src="//www.youtube.com/embed/HqA-3jMJoyI" frameborder="0"></iframe>
     					</div>
     					<div id="fade8" class="black_overlay"></div>
     				</td>
