@@ -9,7 +9,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="http://webcursos.cloudlab.cl/">
+			<a class="logo" href="http://webcursos.uai.cl/">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
