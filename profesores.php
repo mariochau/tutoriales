@@ -282,7 +282,7 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="25%"></td>
 					<td>
-						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=2" >¿Qué es eMarking?</a>
+						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=1" >¿Qué es eMarking?</a>
 						<div class="nivel">Nivel Medio</div>
 						<div class="resumen">Es el nuevo sistema de impresiones personalizadas de pruebas y exámenes.</div>
     					<div id="light1" class="white_content">
@@ -301,7 +301,7 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="25%"></td>
 					<td>
-						 <a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=4">¿Qué es Proyecto Reserva salas?</a>
+						 <a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=3">¿Qué es Proyecto Reserva salas?</a>
 						<div class="nivel">Nivel Medio</div>
 						<div class="resumen">Programa para reservar las salas de estudio, clases y reuniones de la Universidad Adolfo Ibáñez.</div>
     					<div id="light2" class="white_content">
@@ -322,7 +322,7 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="50%"></td>
 					<td>
-						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=3" >¿Qué es Proyecto Syllabi?</a>
+						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=2" >¿Qué es Proyecto Syllabi?</a>
 						<div class="nivel">Nivel Medio</div>
 						<div class="resumen">Plataforma que ayuda al proceso de acreditación de todas las carreras de la Universidad Adolfo Ibáñez.</div>
     					<div id="light3" class="white_content">
