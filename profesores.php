@@ -339,8 +339,6 @@ function dohide(num) {
 			</td>
     			</tr>
 				</table>
-			</td>
-		</tr>
 		
         </div> <!--aqui termina div containter 1  --> 
 
