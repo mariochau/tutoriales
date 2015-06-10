@@ -29,20 +29,16 @@ Tutoriales WebCursos
 <div id="main">
 	<div id="container1" class="clearfix">
 		<a class="dest cat1" href="profesores.php">
- 			<img width="256" height="256" src="images/profesoresg.png"></img>
- 			<div></div>
+ 			<img width="256" height="256" src="images/profesoresg.png">
 		</a>
 		<a class="dest cat2" href="alumnos.php">
-			<img width="256" height="256" src="images/alumnosg.png"></img>
-    		<div></div>
+			<img width="256" height="256" src="images/alumnosg.png">
 		</a>
 		<a class="dest cat3" href="coordinadores.php">
-			<img width="256" height="256" src="images/coordinadoresg.png"></img>
-			<div></div>
+			<img width="256" height="256" src="images/coordinadoresg.png">
 		</a>
 		<a class="dest cat4" href="administrativos.php">
-			<img width="256" height="256" src="images/administrativosg.png"></img>
-			<div></div>
+			<img width="256" height="256" src="images/administrativosg.png">
 		</a>
 	</div>
 	<div id="separador">
