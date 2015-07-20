@@ -270,9 +270,8 @@ function dohide(num) {
                                   </tr>
 		</table>
 		<!-- Aquí empiezan los proyectos, segunda tabla -->	
-		<br>
-		<div id="proyectos">
-		 <img width="276" height="60" src="images\proyectos_uai.png"> 
+		<br><br>
+		<div style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:36px;">PROYECTOS.<B>UAI</B>
 		</div>
 		<br>
 <table cellspacing="5px">
@@ -338,7 +337,26 @@ function dohide(num) {
 				<!-- En caso de querer agregar una columna en esta fila, debe agregarse aquí -->
 			</td>
     			</tr>
-				</table>
+				</table><br><br>
+                
+                <table width="1024px" height="100%">
+		<tr>
+			<td colspan="2" style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:36px;">VIDEOS  TUTORIALES</td>
+		</tr>
+        <tr>
+			<td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">01.v Ayudantías Virtuales</b><br><iframe width="498" height="280" src="https://www.youtube.com/embed/sQy6pg1gLr8" frameborder="0" allowfullscreen></iframe></td>
+            <td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">02.v Ayudantías Virtuales</b><br><iframe width="500" height="281" src="https://www.youtube.com/embed/5OmaVoenjdI" frameborder="0" allowfullscreen></iframe></td>
+		</tr>
+         <tr>
+			<td><br>
+			<b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">03.v Ayudantías Virtuales</b><br>
+			<iframe width="498" height="280" src="https://www.youtube.com/embed/sQy6pg1gLr8" frameborder="0" allowfullscreen></iframe></td>
+            <td><br>
+            <b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">04.v Ayudantías Virtuales</b><br>
+            <iframe width="500" height="281" src="https://www.youtube.com/embed/5OmaVoenjdI" frameborder="0" allowfullscreen></iframe></td>
+		</tr>
+		</table>
+                
 		
         </div> <!--aqui termina div containter 1  --> 
 
