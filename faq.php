@@ -3,7 +3,6 @@
 <title>
 Tutoriales WebCursos
 </title>
-
 <body>
 <div id="linea">
 </div>
@@ -225,17 +224,17 @@ function dohide(num) {
        
         <div id="separador">
 	</div>
-        <p class="titulo"> POLÍTICA DE PRIVACIDAD WEBCURSOS.UAI/FACEBOOK
+        <p class="titulo"> POL&Iacute;TICA DE PRIVACIDAD WEBCURSOS.UAI/FACEBOOK
 	</p>
   <p class="resumen"><b>GENERAL</b><br>
-      La Universidad Adolfo Ibáñez y WebcursosUAI se reserva el derecho a modificar la presente política de privacidad y será responsabilidad del usuario la lectura y acatamiento de esta cada vez que utilize nuestras aplicaciones.<br>
+      La Universidad Adolfo Ib&aacute;&ntilde;ez y WebcursosUAI se reserva el derecho a modificar la presente pol&iacute;tica de privacidad y ser&aacute; responsabilidad del usuario la lectura y acatamiento de esta cada vez que utilize nuestras aplicaciones.<br>
       <br>
-      <b>Cómo usamos y protejemos el uso de tú información.</b><br>
-      La aplicación de Webcursos en Facebook sólo requerirá información personal a través de los formularios de cuentas alojados en webcursos.uai.cl. La entrega de esta información será voluntaria y con el único fin de enlazar las cuentas entre webcursos y facebook.<br><br>
-      WebcursosUAI utilizará los datos enviados por los usuarios con el exclusivo fin de utilizarlos en estudios demográficos/académicos en relación al programa académico de la Universidad Adolfo Ibáñez. Webcursos entregará la opción al visitante de desincribirse de la nómina de contacto a la que fue agregado al momento de completar el formulario.<br>
+      <b>C&oacute;mo usamos y protejemos el uso de t&uacute; informaci&oacute;n.</b><br>
+      La aplicaci&oacute;n de Webcursos en Facebook s&oacute;lo requerir&aacute; informaci&oacute;n personal a trav&eacute;s de los formularios de cuentas alojados en webcursos.uai.cl. La entrega de esta informaci&oacute;n ser&aacute; voluntaria y con el &uacute;nico fin de enlazar las cuentas entre webcursos y facebook.<br><br>
+      WebcursosUAI utilizar&aacute; los datos enviados por los usuarios con el exclusivo fin de utilizarlos en estudios demogr&aacute;ficos/acad&eacute;micos en relaci&oacute;n al programa acad&eacute;mico de la Universidad Adolfo Ib&aacute;&ntilde;ez. Webcursos entregar&aacute; la opci&oacute;n al visitante de desincribirse de la n&oacute;mina de contacto a la que fue agregado al momento de completar el formulario.<br>
       <br>
-  La Universidad Adolfo Ibáñez y WebcursosUAI, no entrega a terceros la información recopilada de los usuarios. No se comunicará ni transferirá a terceros los datos personales de sus usuarios. No obstante lo anterior, en caso de ser requerido judicialmente se hará entrega de la información solicitada.<br><br>
-  Todos los derechos referidos a webcursos.uai.cl y sus contenidos, incluidos los de propiedad intelectual, pertenecen a la Universidad Adolfo Ibáñez. Al acceder a la plataforma, el visitante tendrá derecho a revisar toda la información que esté disponible en él, sólo pudiendo utilizarla para fines particulares y no comerciales. Sin perjuicio de lo anterior, la universidad no se hace responsable por la veracidad o exactitud de la información contenida en los enlaces a otros sitios Web o que haya sido entregada por terceros. La Universidad Adolfo Ibáñez y Webcursos UAI autoriza la utilización o reproducción total o parcial de los contenidos e información de su portal, indicando claramente su fuente u origen.</p>
+  La Universidad Adolfo Ib&aacute;&ntilde;ez y WebcursosUAI, no entrega a terceros la informaci&oacute;n recopilada de los usuarios. No se comunicar&aacute; ni transferir&aacute; a terceros los datos personales de sus usuarios. No obstante lo anterior, en caso de ser requerido judicialmente se har&aacute; entrega de la informaci&oacute;n solicitada.<br><br>
+  Todos los derechos referidos a webcursos.uai.cl y sus contenidos, incluidos los de propiedad intelectual, pertenecen a la Universidad Adolfo Ib&aacute;&ntilde;ez. Al acceder a la plataforma, el visitante tendr&aacute; derecho a revisar toda la informaci&oacute;n que est&eacute; disponible en &eacute;l, s&oacute;lo pudiendo utilizarla para fines particulares y no comerciales. Sin perjuicio de lo anterior, la universidad no se hace responsable por la veracidad o exactitud de la informaci&oacute;n contenida en los enlaces a otros sitios Web o que haya sido entregada por terceros. La Universidad Adolfo Ib&aacute;&ntilde;ez y Webcursos UAI autoriza la utilizaci&oacute;n o reproducci&oacute;n total o parcial de los contenidos e informaci&oacute;n de su portal, indicando claramente su fuente u origen.</p>
       
 	</div>
 <br>
@@ -275,5 +274,5 @@ function dohide(num) {
 		</a></div>
 	</div>
 </div>
-
+</div>
 </body>
