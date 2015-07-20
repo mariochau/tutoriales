@@ -222,7 +222,8 @@ function dohide(num) {
 	  
         </table>
        
- 
+ 		<div id="separador">
+		</div>
         <p class="titulo"> POL&Iacute;TICA DE PRIVACIDAD WEBCURSOS.UAI/FACEBOOK
 	</p>
   <p class="resumen"><b>GENERAL</b><br>
