@@ -11,7 +11,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="http://webcursos.uai.cl/">
+			<a class="logo" href="index.php">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
@@ -231,7 +231,7 @@ function dohide(num) {
                                  <tr>
                                          <td class="flecha" width="10%" height="50%"></td>
                                          <td>
-                                                 <a class="titulo" href= "javascript:void(0)" onclick = "doshow(10)">Â¿C&oacute;mo convertir un documento word en pdf? Alternativo</a>
+                                                 <a class="titulo" href= "javascript:void(0)" onclick = "doshow(10)">¿C&oacute;mo convertir un documento word en pdf? Alternativo</a>
                                                  <div class="nivel">Nivel Medio</div>
                                                  <div class="resumen">Conversi&oacute;n de documento word a pdf</div>
                                                  <div id="light10" class="white_content">
@@ -269,7 +269,7 @@ function dohide(num) {
                          </td>
                                   </tr>
 		</table>
-		<!-- AquÃ­ empiezan los proyectos, segunda tabla -->	
+		<!-- Aquí empiezan los proyectos, segunda tabla -->	
 		<br><br>
 		<div style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:36px;">PROYECTOS.<B>UAI</B>
 		</div>
@@ -281,9 +281,9 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="25%"></td>
 					<td>
-						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=1" >Â¿QuÃ© es eMarking?</a>
+						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=1" >¿Qué es eMarking?</a>
 						<div class="nivel">Nivel Medio</div>
-						<div class="resumen">Es el nuevo sistema de impresiones personalizadas de pruebas y exÃ¡menes.</div>
+						<div class="resumen">Es el nuevo sistema de impresiones personalizadas de pruebas y exámenes.</div>
     					<div id="light1" class="white_content">
     					    <div class="fondo">
     							<a class="cerrar" href = "javascript:void(0)" onclick = "dohide(1)">Cerrar</a>
@@ -300,9 +300,9 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="25%"></td>
 					<td>
-						 <a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=3">Â¿QuÃ© es Proyecto Reserva salas?</a>
+						 <a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=3">¿Qué es Proyecto Reserva salas?</a>
 						<div class="nivel">Nivel Medio</div>
-						<div class="resumen">Programa para reservar las salas de estudio, clases y reuniones de la Universidad Adolfo IbÃ¡Ã±ez.</div>
+						<div class="resumen">Programa para reservar las salas de estudio, clases y reuniones de la Universidad Adolfo Ibáñez.</div>
     					<div id="light2" class="white_content">
     					    <div class="fondo">
     							<a class="cerrar" href = "javascript:void(0)" onclick = "dohide(2)">Cerrar</a>
@@ -321,9 +321,9 @@ function dohide(num) {
 				<tr>
 					<td class="flecha" width="10%" height="50%"></td>
 					<td>
-						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=2" >Â¿QuÃ© es Proyecto Syllabi?</a>
+						<a class="titulo" href= "http://webcursos.uai.cl/course/view.php?id=26050&section=2" >¿Qué es Proyecto Syllabi?</a>
 						<div class="nivel">Nivel Medio</div>
-						<div class="resumen">Plataforma que ayuda al proceso de acreditaciÃ³n de todas las carreras de la Universidad Adolfo IbÃ¡Ã±ez.</div>
+						<div class="resumen">Plataforma que ayuda al proceso de acreditación de todas las carreras de la Universidad Adolfo Ibáñez.</div>
     					<div id="light3" class="white_content">
         					    <div class="fondo">
     							<a class="cerrar" href = "javascript:void(0)" onclick = "dohide(3)">Cerrar</a>
@@ -334,7 +334,7 @@ function dohide(num) {
     				</td>
     			</tr>
 				</table>
-				<!-- En caso de querer agregar una columna en esta fila, debe agregarse aquÃ­ -->
+				<!-- En caso de querer agregar una columna en esta fila, debe agregarse aquí -->
 			</td>
     			</tr>
 				</table><br><br>
@@ -344,16 +344,16 @@ function dohide(num) {
 			<td colspan="2" style="font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:36px;">VIDEOS  TUTORIALES</td>
 		</tr>
         <tr>
-			<td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">01.v AyudantÃ­as Virtuales</b><br><iframe width="498" height="280" src="https://www.youtube.com/embed/sQy6pg1gLr8" frameborder="0" allowfullscreen></iframe></td>
-            <td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">02.v AyudantÃ­as Virtuales</b><br><iframe width="500" height="281" src="https://www.youtube.com/embed/5OmaVoenjdI" frameborder="0" allowfullscreen></iframe></td>
+			<td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">01.v Ayudantías Virtuales</b><br><iframe width="498" height="280" src="https://www.youtube.com/embed/sQy6pg1gLr8" frameborder="0" allowfullscreen></iframe></td>
+            <td><br><b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">02.v Ayudantías Virtuales</b><br><iframe width="500" height="281" src="https://www.youtube.com/embed/5OmaVoenjdI" frameborder="0" allowfullscreen></iframe></td>
 		</tr>
          <tr>
 			<td><br>
-			<b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">03.v AyudantÃ­as Virtuales</b><br>
-			<iframe width="498" height="280" src="https://www.youtube.com/embed/sQy6pg1gLr8" frameborder="0" allowfullscreen></iframe></td>
+			<b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">03.v Ayudantías Virtuales</b><br>
+			<iframe width="498" height="280" src="https://www.youtube.com/embed/j9rOGL11ixE" frameborder="0" allowfullscreen></iframe></td>
             <td><br>
-            <b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">04.v AyudantÃ­as Virtuales</b><br>
-            <iframe width="500" height="281" src="https://www.youtube.com/embed/5OmaVoenjdI" frameborder="0" allowfullscreen></iframe></td>
+            <b style="font-size: 22px; color:#CCC; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif">04.v Ayudantías Virtuales</b><br>
+            <iframe width="500" height="281" src="https://www.youtube.com/embed/uyf4_DHBk7A" frameborder="0" allowfullscreen></iframe></td>
 		</tr>
 		</table>
                 

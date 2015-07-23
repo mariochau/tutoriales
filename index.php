@@ -55,25 +55,14 @@ Tutoriales WebCursos
 		<tr>
 			<td class="imagen" colspan="2"></td>
 		</tr>
-		<tr>
-		<?php	
-			$feedURL = 'http://gdata.youtube.com/feeds/api/users/UCj20d97aKjQchHl38yLYFCg/uploads?max-results=2';
-			$sxml = simplexml_load_file($feedURL);
-			foreach ($sxml->entry as $entry) {
-
-     			$media = $entry->children('media', true);
-      			$watch = (string)$media->group->player->attributes()->url;
-     
-				$a = explode("=", $watch);
-				$b = explode("&",$a[1]);
-		?>
-			<td width="50%" height="80%">
-				<iframe width="500" height="280" src="//www.youtube.com/embed/<?php echo $b[0];?>" frameborder="0"></iframe>
+		<tr>		
+			<!-- <td width="50%" height="80%">
+				<iframe width="500" height="280" src="//www.youtube.com/embed/<?php // echo $b[0];?>" frameborder="0"></iframe>
 			</td>
 		<td>
 		<?php    
-		} 
-		?>
+	//	} 
+		?>-->
 		</tr>
 		</table> 
 	</div>
