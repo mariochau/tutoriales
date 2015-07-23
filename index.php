@@ -9,7 +9,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="http://webcursos.uai.cl/">
+			<a class="logo" href="index.php">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
@@ -56,13 +56,9 @@ Tutoriales WebCursos
 			<td class="imagen" colspan="2"></td>
 		</tr>
 		<tr>		
-			<!-- <td width="50%" height="80%">
-				<iframe width="500" height="280" src="//www.youtube.com/embed/<?php // echo $b[0];?>" frameborder="0"></iframe>
+			<td width="50%" height="80%">
+				<iframe width="680" height="280" src="http://www.youtube.com/embed/ernR7ahcqyw?feature=player_detailpage" frameborder="0"></iframe>
 			</td>
-		<td>
-		<?php    
-	//	} 
-		?>-->
 		</tr>
 		</table> 
 	</div>
@@ -71,14 +67,14 @@ Tutoriales WebCursos
 </div>
 
 <div id="foot">
-	<div class="footer">&copy; 2014 Universidad Adolfo Ib&aacute;&ntilde;ez</div>
+	<div class="footer">&copy; <?php echo date('Y');?> Universidad Adolfo Ib&aacute;&ntilde;ez</div>
 	<div id="social">
 		<div class="facebook">
-			<a href="https://www.facebook.com/u.adolfo.ibanez">
+			<a href="https://www.facebook.com/coordinador.webcursosuai">
 			<img width="50" height="50" src="images/facebook.png">
 			</a></div>
 		<div class="twitter">
-			<a href="https://twitter.com/Uai_Comunica">
+			<a href="https://twitter.com/UAI_CL">
 		<img width="50" height="50" src="images/twitter.png">
 		</a></div>
 	</div>

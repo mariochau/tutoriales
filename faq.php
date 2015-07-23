@@ -262,14 +262,14 @@ function dohide(num) {
 	
 
 <div id="foot">
-	<div class="footer">&copy; 2015 Universidad Adolfo Ib&aacute;&ntilde;ez</div>
+	<div class="footer">&copy; <?php echo date('Y');?> Universidad Adolfo Ib&aacute;&ntilde;ez</div>
 	<div id="social">
 		<div class="facebook">
-			<a href="https://www.facebook.com/u.adolfo.ibanez">
+			<a href="https://www.facebook.com/coordinador.webcursosuai">
 			<img width="50" height="50" src="images/facebook.png">
 			</a></div>
 		<div class="twitter">
-			<a href="https://twitter.com/Uai_Comunica">
+			<a href="https://twitter.com/UAI_CL">
 		<img width="50" height="50" src="images/twitter.png">
 		</a></div>
 	</div>
