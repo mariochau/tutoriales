@@ -8,7 +8,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="http://webcursos.uai.cl/">
+			<a class="logo" href="index.php">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
