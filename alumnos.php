@@ -1,3 +1,4 @@
+<?php require_once (dirname ( __FILE__ ) . '/../../config.php');?>
 <!DOCTYPE unspecified PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <link rel="stylesheet" href="estilo1.css">
 <title>
@@ -9,7 +10,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="http://webcursos.uai.cl/">
+			<a class="logo" href="<?php echo $CFG->wwwroot . '/local/tutoriales/index.php'; ?>">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
@@ -107,20 +108,20 @@ function dohide(num) {
 	</div>
 	<div id="container2">
 		<div class="atras">
-			<a href="index.php">
+			<a href="<?php echo $CFG->wwwroot . '/local/tutoriales/index.php'; ?>">
 			<img src="images/atras.png"></a>
 		</div>
 	</div>
 </div>
 <div id="foot">
-	<div class="footer">&copy; 2014 Universidad Adolfo Ib&aacute;&ntilde;ez</div>
+	<div class="footer">&copy; <?php echo date('Y');?> Universidad Adolfo Ib&aacute;&ntilde;ez</div>
 	<div id="social">
 		<div class="facebook">
-			<a href="https://www.facebook.com/u.adolfo.ibanez">
+			<a href="https://www.facebook.com/coordinador.webcursosuai">
 			<img width="50" height="50" src="images/facebook.png">
 			</a></div>
 		<div class="twitter">
-			<a href="https://twitter.com/Uai_Comunica">
+			<a href="https://twitter.com/UAI_CL">
 		<img width="50" height="50" src="images/twitter.png">
 		</a></div>
 	</div>
