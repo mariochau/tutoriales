@@ -1,3 +1,4 @@
+<?php require_once (dirname ( __FILE__ ) . '/../../config.php');?>
 <!DOCTYPE unspecified PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <link rel="stylesheet" href="estilo1.css">
 <title>
@@ -8,7 +9,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="index.php">
+			<a class="logo" href="<?php echo $CFG->wwwroot . '/local/tutoriales/index.php'; ?>">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
@@ -255,7 +256,7 @@ function dohide(num) {
 <br>
 	<div id="container2">
 		<div class="atras">
-			<a href="index.php">
+			<a href="<?php echo $CFG->wwwroot . '/local/tutoriales/index.php'; ?>">
 			<img src="images/atras.png"></a>
 		</div>
 	</div>

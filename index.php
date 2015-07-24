@@ -1,3 +1,4 @@
+<?php require_once (dirname ( __FILE__ ) . '/../../config.php');?>
 <!DOCTYPE unspecified PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="estilo.css">
@@ -9,7 +10,7 @@ Tutoriales WebCursos
 </div>
 <div id="header">
 	<div id="logos">
-			<a class="logo" href="index.php">
+			<a class="logo" href="<?php echo $CFG->wwwroot . '/local/tutoriales/index.php'; ?> ">
 				<img src="images/nuevo-logo-wcurso_transp2.gif">
 			</a>
 		<div class="logo2">
@@ -28,23 +29,23 @@ Tutoriales WebCursos
 
 <div id="main">
 	<div id="container1" class="clearfix">
-		<a class="dest cat1" href="profesores.php">
+		<a class="dest cat1" href="<?php echo $CFG->wwwroot . '/local/tutoriales/profesores.php'; ?>">
  			<img width="256" height="256" src="images/profesoresg.png">
 		</a>
-		<a class="dest cat2" href="alumnos.php">
+		<a class="dest cat2" href="<?php echo $CFG->wwwroot . '/local/tutoriales/alumnos.php'; ?>">
 			<img width="256" height="256" src="images/alumnosg.png">
 		</a>
-		<a class="dest cat3" href="coordinadores.php">
+		<a class="dest cat3" href="<?php echo $CFG->wwwroot . '/local/tutoriales/coordinadores.php'; ?>">
 			<img width="256" height="256" src="images/coordinadoresg.png">
 		</a>
-		<a class="dest cat4" href="administrativos.php">
+		<a class="dest cat4" href="<?php echo $CFG->wwwroot . '/local/tutoriales/administrativos.php'; ?>">
 			<img width="256" height="256" src="images/administrativosg.png">
 		</a>
 	</div>
 	<div id="separador">
 	</div>
 	<div id="container3">
-		<a href="faq.php">
+		<a href="<?php echo $CFG->wwwroot . '/local/tutoriales/faq.php'; ?>">
 		<img src="images/faq.png">
 		</a>
 	</div>
