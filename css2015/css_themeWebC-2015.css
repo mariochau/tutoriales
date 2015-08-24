@@ -1,0 +1,363 @@
+#frontpage-course-list {background: none; padding-top: 0px;}
+.frontpage-course-list-enrolled {overflow:auto;}
+#page-header {height:60px;}
+
+#page-header a.logo {
+    display: block;
+    float: left;
+    height: 50px;
+    margin: 5px;
+    width: 100%;
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+
+#marketing-buttons {margin-bottom:2px;}
+
+#page-site-index .frontpagecontent {display:none;}
+
+/* CSS Cajas Courses Index */
+#page-site-index .unlist li, #page-site-index .coursebox {
+     float: left;
+     width: 20%;
+     height: 80px;
+     padding:5px;
+     margin: 4px;
+     border-radius: 5px;
+     overflow-y: auto;
+  background: -webkit-linear-gradient(top, #FBFBFB, #E8E8E8);
+background: -moz-linear-gradient(#FBFBFB, #E2E2E2);
+}
+
+#page-site-index .block_navigation {display:none;}
+
+#page-site-index .coursename {
+font-family: Arial Narrow, sans-serif;
+font-size: 18px;
+line-height: 16px;
+}
+
+
+#page-site-index .teachers {
+     border: solid #BBB 1px;
+     border-top: solid #FFF 1px;
+     position: relative;
+     /* IE 6 y 7 */
+     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FBFBFB', endColorstr='#E2E2E2', gradientType='0');
+     /* IE 8 y 9 */
+     -ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FBFBFB', endColorstr='#E2E2E2', gradientType='0');
+     background: linear-gradient(top, #FBFBFB, #E2E2E2);
+     /* Safari 4-5, Chrome 1-9 */
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E2E2E2), to(#FBFBFB));
+    /* Safari 5.1+, Chrome 10+ */
+	background: -moz-linear-gradient(#FBFBFB, #E2E2E2);
+    /* For Firefox 3.6 to 15 */
+    background: -moz-linear-gradient(top, #FBFBFB, #E2E2E2);
+    /* Opera 11.10+ */
+    background: -o-linear-background(top, #FBFBFB, #E2E2E2);
+    /* IE 10 */
+    background: -ms-linear-background(top, #FBFBFB, #E2E2E2);
+    margin: 0px -6px 0px 2px;
+     border-radius: 5px;
+     width:100%;
+}
+
+#page-site-index .unlist .info .teachers li, #page-site-index .coursebox .content .teachers li  {
+     float: none;
+     height: 1%;
+     background:none;
+     margin-left: -3px;
+     margin-top: -1px;
+     margin-bottom: 2px;
+     padding: 0px;
+     line-height: 18px;
+     filter:none;
+     -ms-filter:none;
+     -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+     box-shadow: none;
+}
+
+#page-site-index .coursebox .content, #page-site-index .coursebox .enrolmenticons {display:none;}
+
+#page-site-index .unlist .info .editing, #page-site-index .coursebox .content .editing {display:visibility;}
+#page-site-index .unlist .info .editing li, #page-site-index .coursebox .content .editing li {
+     border:none;
+     background:none;
+     margin-left: -8px;
+     visibility: visible;
+     line-height: 0.1em;
+     filter:none;
+     -ms-filter:none;
+     -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+     box-shadow: none;}
+    
+#page-site-index #middle-blocks {
+	margin: 1px 0;
+}
+
+#page-site-index #page #page-content {
+       margin-top: 1px;
+}
+
+
+/* CSS Button */
+.breadcrumb-button .singlebutton {
+  background-color: #666;
+  border-radius: 6px;
+}
+
+.breadcrumb-button input[type="submit"] {
+  color: #ccc;
+  background: #666;
+}
+
+.breadcrumb-button input[type="submit"]:hover {
+  color: #39C;
+  background: #333;
+  border-radius: 5px;
+}
+
+#page form .form-buttons, #region-main form .form-buttons, #page form #fgroup_id_buttonar, #region-main form #fgroup_id_buttonar {
+  background-color: #282828;
+  border-top: 1px solid #999;
+}
+
+
+/* CSS Text-Titles */
+body {
+font-size: 13px;
+font-family: "PT Sans", Arial, Helvetica, sans-serif;
+}
+ 
+h1 {
+  font-size: 22px;
+}
+
+.coursetitle {
+    font-size: 16px;
+    color: #999999;
+    margin-bottom: 1px;
+	margin-top: 5px;
+	line-height: 25px;
+}
+
+
+
+
+
+
+
+h2 {
+  color: #777;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+#adminsettings h3 {
+font-size: 17px;
+}
+
+.block_course_overview .content h2.title {
+  font-size: 17px;
+  line-height: 18px;
+}
+
+.course-content ul li.section.main.clearfix.current .content {
+  box-shadow: 0px 0px 6px 2px #BDBCBC;
+  border-radius: 10px;
+}
+
+ul.weeks h3.sectionname {
+  white-space: nowrap;
+  font-size: 17px;
+  color: #999999;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+li {
+  line-height: 16px;
+}
+
+#marketing-spots .marketing-spot h5 {
+  color: #000;
+  font-size: 16px;
+}
+
+    
+/* CSS Colors Nav */
+.navbar .navbar-inner .brand {
+  color: #39C;
+}
+.breadcrumb-nav ul.breadcrumb.style1 li a {
+  color: #39C;
+}
+
+
+
+/* CSS Essential Colors */
+.essential-colours-alternative1 {
+  color: #999999;
+}
+
+.essential-colours-alternative2 .navbar .navbar-inner .brand {
+  color: #FF9EFD;
+}
+
+.essential-colours-alternative1 .block a {
+  color: #04A3F0;
+}
+
+.essential-colours-alternative1 a, .essential-colours-alternative1 a:visited {
+   color: #04A3F0;
+}
+
+.essential-colours-alternative1 .breadcrumb-nav ul.breadcrumb.style1 li a {
+  color: #9CC;
+}
+
+.essential-colours-alternative1 .breadcrumb-nav ul.breadcrumb.style1 li a:hover {
+  color: #023E73;
+  background: #cccccc;
+}
+
+.essential-colours-alternative1 .breadcrumb-nav ul.breadcrumb.style1 li {
+  color: #9CC;
+  background: #023E73;
+}
+
+.essential-colours-alternative1 .breadcrumb-nav ul.breadcrumb.style1 li:hover {
+  color: #023E73;
+  background: #cccccc;
+}
+
+
+/* CSS Essential2 */
+.essential-colours-alternative2, .essential-colours-alternative2 .form-item .form-description {
+  color: #6CC;
+}
+
+.essential-colours-alternative2 .navbar .navbar-inner .brand {
+  color: #FF9EFD;
+}
+
+.essential-colours-alternative2 .block a {
+  color: #C69;
+}
+
+.essential-colours-alternative2 a, .essential-colours-alternative2 a:visited {
+   color: #C69;
+}
+
+.essential-colours-alternative2 .breadcrumb-nav ul.breadcrumb.style1 li a {
+  color: #FF9EFD;
+}
+
+.essential-colours-alternative2 .breadcrumb-nav ul.breadcrumb.style1 li a:hover {
+  color: #89006E;
+  background: #03639B;
+}
+
+.essential-colours-alternative2 .breadcrumb-nav ul.breadcrumb.style1 li {
+  color: #FF9EFD;
+
+}
+
+.essential-colours-alternative2 .breadcrumb-nav ul.breadcrumb.style1 li:hover {
+  color: #89006E;
+  background: #03639B;
+}
+
+.essential-colours-alternative2 .color, .essential-colours-alternative2 .form-defaultinfo, .essential-colours-alternative2 .form-label .form-shortname, .essential-colours-alternative2 .uneditable-input, .essential-colours-alternative2 h1, .essential-colours-alternative2 h1#title, .essential-colours-alternative2 h2, .essential-colours-alternative2 h3, .essential-colours-alternative2 h4, .essential-colours-alternative2 h5, .essential-colours-alternative2 h6, .essential-colours-alternative2 input[type=color], .essential-colours-alternative2 input[type=date], .essential-colours-alternative2 input[type=datetime-local], .essential-colours-alternative2 input[type=datetime], .essential-colours-alternative2 input[type=email], .essential-colours-alternative2 input[type=month], .essential-colours-alternative2 input[type=number], .essential-colours-alternative2 input[type=password], .essential-colours-alternative2 input[type=search], .essential-colours-alternative2 input[type=tel], .essential-colours-alternative2 input[type=text], .essential-colours-alternative2 input[type=time], .essential-colours-alternative2 input[type=url], .essential-colours-alternative2 input[type=week], .essential-colours-alternative2 select, .essential-colours-alternative2 textarea {
+  color: #C69;
+}
+
+
+/* CSS Essential3 */
+.essential-colours-alternative3, .essential-colours-alternative3 .form-item .form-description {
+  color: #999999;
+}
+
+.essential-colours-alternative3 .navbar .navbar-inner .brand {
+   color: #3CF;
+}
+
+.essential-colours-alternative3 .block a {
+  color: #069;
+}
+
+.essential-colours-alternative3 a, .essential-colours-alternative3 a:visited {
+   color: #09C;
+}
+
+.essential-colours-alternative3 .breadcrumb-nav ul.breadcrumb.style1 li a {
+  color: #3CF;
+}
+
+.essential-colours-alternative3 .breadcrumb-nav ul.breadcrumb.style1 li a:hover {
+  color: #666666;
+  background: #cccccc;
+}
+
+.essential-colours-alternative3 .breadcrumb-nav ul.breadcrumb.style1 li {
+  color: #3CF;
+}
+
+.essential-colours-alternative3 .breadcrumb-nav ul.breadcrumb.style1 li:hover {
+   color: #666666;
+  background: #cccccc;
+}
+
+.essential-colours-alternative3 .color, .essential-colours-alternative3 .form-defaultinfo, .essential-colours-alternative3 .form-label .form-shortname, .essential-colours-alternative3 .uneditable-input, .essential-colours-alternative3 h1, .essential-colours-alternative3 h1#title, .essential-colours-alternative3 h2, .essential-colours-alternative3 h3, .essential-colours-alternative3 h4, .essential-colours-alternative3 h5, .essential-colours-alternative2 h6, .essential-colours-alternative3 input[type=color], .essential-colours-alternative3 input[type=date], .essential-colours-alternative3 input[type=datetime-local], .essential-colours-alternative3 input[type=datetime], .essential-colours-alternative3 input[type=email], .essential-colours-alternative3 input[type=month], .essential-colours-alternative3 input[type=number], .essential-colours-alternative3 input[type=password], .essential-colours-alternative3 input[type=search], .essential-colours-alternative3 input[type=tel], .essential-colours-alternative3 input[type=text], .essential-colours-alternative3 input[type=time], .essential-colours-alternative3 input[type=url], .essential-colours-alternative3 input[type=week], .essential-colours-alternative3 select, .essential-colours-alternative3 textarea {
+  color: #666;
+}
+
+.essential-colours-alternative3 .navbar .navbar-inner .nav>li>a: hover {
+  color: #999;
+}
+
+.coursebox .info .coursename a {
+background-image:none;
+padding-left: 0px;
+}
+
+.categoryicons .course_category_tree .fa {
+font-size: 90px;
+width: 100%;
+}
+
+.categoryicons .course_category_tree .category>.info a>span, .categoryicons .course_category_tree .category>.info>.categoryname a>span {
+    font-size: 16px;
+}
+
+.categoryicons .course_category_tree .category[data-categoryid]>.info>.categoryname a {
+    line-height: 20px;
+}
+
+
+/* CSS Mobile */
+.bar-side-menu {
+  background-color: #666;
+}
+
+.bar-content {
+  background-color: black;
+}
+
+.button.button-positive {
+  border-color: #999;
+  background-color: black;
+   color: #fff;
+} 
+
+.item-divider {
+  background-color: #fafafa;
+}
