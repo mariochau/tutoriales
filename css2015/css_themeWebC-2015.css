@@ -349,7 +349,6 @@ width: 100%;
 }
 
 .bar-content {
-	background: black;
 background-image: url(images.png);
   background-position: right;
   background-repeat:no-repeat;
