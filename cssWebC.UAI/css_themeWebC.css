@@ -342,6 +342,10 @@ width: 100%;
     line-height: 20px;
 }
 
+/* Ocultar label turnitin */
+label[for="module_turnitintool"] { display:none !important; }
+
+
 
 /* CSS Mobile */
 .bar-side-menu {
